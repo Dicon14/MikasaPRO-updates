@@ -1,7 +1,7 @@
 {
   "app": "MikasaPRO",
-  "versionCode": 101,
-  "versionName": "1.0.1",
+  "versionCode": 102,
+  "versionName": "1.0.2",
   "updateAvailable": false,
-  "apk": null
+  "apk": "https://github.com/Dicon14/MikasaPRO-updates/releases/download/untagged-6ffb49d11175cacb556d/MikasaPRO_v102_signed.apk"
 }
